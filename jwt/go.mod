@@ -1,8 +1,6 @@
-module jwt
+module github.com/CodeLine-95/jwt
 
-go 1.21.0
-
-toolchain go1.21.3
+go 1.21
 
 require (
 	github.com/CodeLine-95/go-cloud-native v0.0.0-20231027100448-2f29ff3dc5c1
