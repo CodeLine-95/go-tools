@@ -1,4 +1,4 @@
-module github.com/CodeLine-95/logz
+module github.com/CodeLine-95/go-tools/v5/logz
 
 go 1.21.3
 

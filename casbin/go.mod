@@ -1,4 +1,4 @@
-module github.com/CodeLine-95/casbin
+module github.com/CodeLine-95/go-tools/v5/casbin
 
 go 1.21.3
 
