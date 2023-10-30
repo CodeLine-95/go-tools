@@ -1,4 +1,4 @@
-module github.com/CodeLine-95/go-tools/v5/traceId
+module github.com/CodeLine-95/go-tools/v1/traceId
 
 go 1.21.3
 
