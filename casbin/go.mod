@@ -1,6 +1,6 @@
 module github.com/CodeLine-95/casbin
 
-go 1.21
+go 1.21.3
 
 require (
 	github.com/casbin/casbin/v2 v2.77.2
